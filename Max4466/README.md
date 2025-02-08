@@ -22,4 +22,3 @@ This project demonstrates how to capture audio from the **MAX4466 microphone** u
 - **I2S and ADC drivers**
 - **CMake / Make (for building the project)**
 
-## File Structure
